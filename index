@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人简历</title>
+    <style>
+        .da{
+            background: rgb(106, 201, 106) ;
+        }
+        .da *{
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+        }
+        ul {
+            list-style: none;
+        }
+        li{
+            display: inline;
+        }
+        a{
+            color: aliceblue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="da">
+        <ul>
+            <li>
+                <a href="#">首页</a>
+            </li>
+            <li>
+                <a href="#">HTML</a>
+            </li>
+            <li>
+                <a href="#">CSS</a>
+            </li>
+            <li>
+                <a href="#">JAVASCRIPT</a>
+            </li>
+            <li>
+                <a href="#">VUE</a>
+            </li>
+            <li>
+                <a href="#">BOOTSTRAP</a>
+            </li>
+            <li>
+                <a href="#">NODEJS</a>
+            </li>
+            <li>
+                <a href="#">PYTHON3</a>
+            </li>
+            <li>
+                <a href="#">PYTHON2</a>
+            </li>
+            <li>
+                <a href="#">JAVA</a>
+            </li>
+            <li>
+                <a href="#">C</a>
+            </li>
+            <li>
+                <a href="#">C++</a>
+            </li>
+            <li>
+                <a href="#">C#</a>
+            </li>
+            <li>
+                <a href="#">GO</a>
+            </li>
+            <li>
+                <a href="#">SQL</a>
+            </li>
+            <li>
+                <a href="#">LINUX</a>
+            </li>
+            <li>
+                <a href="#">JQUERY</a>
+            </li>
+            <li>
+                <a href="#">本地书签</a>
+            </li>
+        </ul>
+    </div>
+    <h1>lwj<h1>
+    <h2>0120230754<h2>
+    <h3>略</h3>
+    <h4>略</h4>
+    <h5>略</h5>
+</body>
+</html>
